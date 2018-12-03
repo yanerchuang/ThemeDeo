@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="attr_bg" format="reference|color" />
+    <attr name="attr_tv_deep" format="color" />
+</resources>
